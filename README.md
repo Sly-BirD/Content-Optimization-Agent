@@ -1,4 +1,4 @@
-# Suproc Listing Optimizer
+# Listing Optimizer
 
 A production-ready B2B supplier listing auditor and optimization agent built for industrial marketplaces. It analyzes supplier raw text, extracts structured specifications, enforces zero-trust grounding against unverified fabrications, and scans live IndiaMART competitor listings for market benchmarks.
 
@@ -24,7 +24,7 @@ A production-ready B2B supplier listing auditor and optimization agent built for
 
 ---
 
-## 🚀 How to Use (Step-by-Step Setup)
+## How to Use )
 
 ### 1. Start the Backend (FastAPI)
 
@@ -71,7 +71,7 @@ Open **`http://localhost:5173`** in your browser.
 
 ---
 
-## 💡 Using the Web Application
+## Using the Web Application
 
 1. **Submit Listing**: Select category (Garments, Chemicals, Electronics, General/Other), paste your raw supplier text, and optionally enter structured specs (MOQ, Lead time, Certifications, Price tiers).
 2. **Audit & Review**: Click **Audit & Optimize Listing** to view:
@@ -83,7 +83,7 @@ Open **`http://localhost:5173`** in your browser.
 
 ---
 
-## ⚠️ Important User Disclaimers & Rules
+## Important User Disclaimers & Rules
 
 > [!IMPORTANT]
 > **1. Zero-Trust Grounding Rule**  
