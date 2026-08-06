@@ -27,7 +27,7 @@ app = FastAPI(title="Listing Optimizer V3 Backend")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://content-optimization-agent.vercel.app/"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
