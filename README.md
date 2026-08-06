@@ -2,6 +2,9 @@
 
 A production-ready B2B supplier listing auditor and optimization agent built for industrial marketplaces. It analyzes supplier raw text, extracts structured specifications, enforces zero-trust grounding against unverified fabrications, and scans live IndiaMART competitor listings for market benchmarks.
 
+
+Live: https://content-optimization-agent.vercel.app/
+
 ---
 
 ## 🏗 Architecture & File Layout
